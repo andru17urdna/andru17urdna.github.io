@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
+---
+You must be at least a little interested in me if you're reading this. SO,
+I'll tell you a little bit about myself. For the past decade I've been a custom fabricator ,both running jobs as well as building myself. It was hard work but it was what helped to build the mindset that I have today.
 
-You can use the [editor on GitHub](https://github.com/andru17urdna/andru17urdna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a few rules that I like to fall back on when I'm creating anything, whether it's coding or building, these rules help to guide me:
+1. If you're already building it, make it stand out.
+2. Treat everything you create as if your name is on it.
+3. True quality can be found in the small details. People easily forget the larger picture but will always remember the attention to the littles things.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I believe if you were to take a look at my projects you will find these rules applied on every single page.
 
-```markdown
-Syntax highlighted code block
+### My Projects
+---
+[Speak Easy](https://link-url-here.org)
+* an Event planning site with privacy at it's core
 
-# Header 1
-## Header 2
-### Header 3
+[Waveform](https://spot-a-cloud.herokuapp.com/)
+* a Clone of spotify with something a little bit extra to set it apart
 
-- Bulleted
-- List
+[Shuffled](https://shuffled.herokuapp.com/)
+* a Clone of untapped for collecting playing cards, with some expirements in UI design
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andru17urdna/andru17urdna.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact Me
+---
+<a href="https://www.linkedin.com/in/andrew-watkins-533280173/"><img src="images/LI-Logo.png" height="28" align="middle" /></a>
+<a href="https://github.com/andru17urdna"><img src="images/GitHub_Logo_White.png" height="38" align="middle" /></a>
+<a href="mailto:"><img src="images/protonmail-logo-purple.png" height="28" align="middle" /></a>
