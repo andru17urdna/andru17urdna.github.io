@@ -76,12 +76,26 @@ input, select, textarea {
 	background: rgba(0, 0, 0, 0.4);
 	padding-left: 10px;
 	padding-top: 10px;
+	transition-duration: .7s;
 }
+
+/* #whoiam-opacity:hover{
+	background: rgba(0, 0, 0, 0.8);
+} */
 
 #builder-opacity{
 	background: rgba(0, 0, 0, 0.4);
 	padding-left: 10px;
 	padding-top: 10px;
+	transition-duration: .7s;
+}
+
+#opacity-on-hover:hover #builder-opacity{
+	background: rgba(0, 0, 0, 0.8);
+}
+
+#opacity-on-hover:hover #whoiam-opacity{
+	background: rgba(0, 0, 0, 0.8);
 }
 
 #current-tech{
@@ -89,13 +103,19 @@ input, select, textarea {
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-content: space-around;
-	width: 17rem;
+	width: 15rem;
 	height: 10rem;
+
 }
 
 #fake-grid{
 	display: grid;
 }
+
+
+
+
+
 
 .div-expirement{
 	position: absolute;
